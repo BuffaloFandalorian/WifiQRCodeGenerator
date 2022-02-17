@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeWifi.API", "WelcomeWifi.API\WelcomeWifi.API.csproj", "{EC5EF7C6-AAE3-453D-9558-B4CD18DA8F16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeWifi.Services", "WelcomeWifi.Services\WelcomeWifi.Services.csproj", "{0640B342-C207-404C-A039-B6C64558D7B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeWifi.Tests", "WelcomeWifi.Tests\WelcomeWifi.Tests.csproj", "{D82AEA71-A1DC-4BF3-BA8D-F57114E29B30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeWifi.Obj", "WelcomeWifi.Obj\WelcomeWifi.Obj.csproj", "{8F23563F-3093-4F05-8861-4CBAF9136A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5EF7C6-AAE3-453D-9558-B4CD18DA8F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5EF7C6-AAE3-453D-9558-B4CD18DA8F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5EF7C6-AAE3-453D-9558-B4CD18DA8F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5EF7C6-AAE3-453D-9558-B4CD18DA8F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0640B342-C207-404C-A039-B6C64558D7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0640B342-C207-404C-A039-B6C64558D7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0640B342-C207-404C-A039-B6C64558D7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0640B342-C207-404C-A039-B6C64558D7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82AEA71-A1DC-4BF3-BA8D-F57114E29B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82AEA71-A1DC-4BF3-BA8D-F57114E29B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82AEA71-A1DC-4BF3-BA8D-F57114E29B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82AEA71-A1DC-4BF3-BA8D-F57114E29B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F23563F-3093-4F05-8861-4CBAF9136A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F23563F-3093-4F05-8861-4CBAF9136A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F23563F-3093-4F05-8861-4CBAF9136A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F23563F-3093-4F05-8861-4CBAF9136A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0CEF80-B347-4BAC-95E8-5D46253FE380}
+	EndGlobalSection
+EndGlobal
